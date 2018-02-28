@@ -1,0 +1,20 @@
+{
+    "name": "Dom to snapshot",
+    "version": "1.0",
+    "description": "Choose DOM Element to take a snapshot",
+    "manifest_version": 2,
+    "background": {
+        "scripts": [
+            "background.js"
+        ]
+    },
+    "browser_action": {
+        "default_title": "Dom to snapshot"
+    },
+    "permissions": [
+        "tabs",
+        "notifications",
+        "http://*/",
+        "https://*/"
+    ]
+}
