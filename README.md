@@ -5,7 +5,7 @@
 
 1. 下载仓库
 
-    $ git clone git@github.com:huang-x-h/dom-snapshot.git
+    `$ git clone git@github.com:huang-x-h/dom-snapshot.git`
 
 2. 加载扩展程序
 
